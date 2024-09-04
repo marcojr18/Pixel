@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+// primeira medida vista (Pixel) esta é uma medida abusoluta
+//section 
+.primeira-sessao{
+// borda aqui ela receberá tres valores solid,( tipo da bora) cor, esperssurar.
+border: solid rgb(40, 71, 107) 4px;
+// aqui chamei a tag section dentro da div isso se chama aninhamento apenas a tag aninhada recebe o estilo esta div esta dentro da tag section por isso de chama aninhamento
+div{
+    //tag de largura 
+    width: 350px;
+    // cor de fundo
+    background-color: #5a8b9bab;
+    // altura
+    height: 150px;
+
+}
+
+}
